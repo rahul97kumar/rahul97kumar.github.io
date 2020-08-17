@@ -42,11 +42,15 @@ header.startup h1 {
   text-transform: uppercase;
   border-radius: 100px;
   font-family: 'Montserrat', sans-serif;
+  position: absolute;
+  left: 100px;
+  top: 150px;
 }
 
 
 .btn-xl {
   padding: 1rem 2rem; 
+ 
 }
 
 .btn-primary {
