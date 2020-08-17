@@ -38,18 +38,13 @@ header.startup h1 {
 }
 
 .btn {
-  position:center;
+  background-position: center;
   font-weight: 700;
   text-transform: uppercase;
   border-radius: 100px;
   font-family: 'Montserrat', sans-serif;
 }
-#mc-embedded-subscribe {
-    clear: both;
-    width: auto;
-    display: block;
-    margin: 1em auto; /* Center it by making the margin auto */
-}
+
 
 .btn-xl {
   padding: 1rem 2rem; 
